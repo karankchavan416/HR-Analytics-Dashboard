@@ -46,7 +46,7 @@ This dashboard helps answer key HR business questions:
 ## HR Overview Dashboard
 
 <p align="center">
-<img src="HR-Dashboard.png" width="900">
+<img src="Dashboard Images/HR-Dashboard-Overview.png" width="900">
 </p>
 
 ### Dashboard Highlights
@@ -65,7 +65,7 @@ This dashboard helps answer key HR business questions:
 ## Employee Details Dashboard
 
 <p align="center">
-<img src="HR-Dashboard-Details.png" width="900">
+<img src="Dashboard Images/HR-Dashboard-Details.png" width="900">
 </p>
 
 ### Dashboard Highlights
