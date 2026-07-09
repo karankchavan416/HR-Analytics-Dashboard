@@ -167,28 +167,6 @@ This dashboard enables HR teams to:
 
 ---
 
-# 📁 Repository Structure
-
-```
-HR-Analytics-Dashboard
-│
-├── Dashboard Images/
-│   ├── HR Overview.png
-│   └── HR Details.png
-│
-├── Dataset/
-│   └── HumanResources.csv
-│
-├── Tableau Dashboard/
-│   └── HR Dashboard.twbx
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 # 📌 Future Enhancements
 
 - Employee Attrition Prediction
